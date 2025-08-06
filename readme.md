@@ -1,4 +1,4 @@
-# <img src="/Users/ianzhi/Documents/code/goodData/ChatGPT Image 2025年7月26日 18_42_26-4414674.png" alt="ChatGPT Image 2025年7月26日 18_42_26" style="zoom:5%;" />GoodData
+# <img src="./logo.png" alt="ChatGPT Image 2025年7月26日 18_42_26" style="zoom:5%;" />GoodData
  [接口文档](kd6ixqu61g.apifox.cn)  访问密码：123456
 
 标准的 HTTP 接口服务，你值得信赖的数据提供商。
@@ -7,7 +7,7 @@
 
 - **Telegram**: [t.me/gooddataian](https://t.me/gooddataian)
 - **企业微信**
-- ![WX20250726-185134@2x](/Users/ianzhi/Documents/code/goodData/WX20250726-185134@2x.png)
+- ![WX20250726-185134@2x](./qrCode.png)
 
 ## 我们能为你提供的服务
 
