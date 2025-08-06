@@ -1,4 +1,4 @@
-# <img src="./logo.png" alt="ChatGPT Image 2025年7月26日 18_42_26" style="zoom:5%;" />GoodData
+# <img src="./logo.png" alt="logo" width="5%" />GoodData
  [接口文档](kd6ixqu61g.apifox.cn)  访问密码：123456
 
 标准的 HTTP 接口服务，你值得信赖的数据提供商。
