@@ -1,4 +1,4 @@
-# <img src="./logo.png" alt="logo" width="5%" />GoodData
+﻿# <img src="./logo.png" alt="logo" width="5%" />GoodData
  [接口文档](kd6ixqu61g.apifox.cn)  访问密码：123456
 
 **标准的HTTP数据接口**
@@ -31,4 +31,4 @@
 
 - 小红书笔记详情
 - 小红书用户信息
-- 小红书用户作品列表?
+- 小红书用户作品列表?​
