@@ -1,5 +1,5 @@
 ﻿# <img src="./logo.png" alt="logo" width="5%" />GoodData
- [接口文档](kd6ixqu61g.apifox.cn)  访问密码：123456
+ [接口文档](https://kd6ixqu61g.apifox.cn)  访问密码：123456
 
 **标准的HTTP数据接口**
 
