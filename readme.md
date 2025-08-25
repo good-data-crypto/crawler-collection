@@ -1,4 +1,4 @@
-# <img src="./logo.png" alt="logo" width="5%" />GoodData
+﻿# <img src="./logo.png" alt="logo" width="5%" />GoodData
  [接口文档](https://kd6ixqu61g.apifox.cn)  访问密码：123456
 
 **标准的HTTP数据接口**
@@ -88,3 +88,4 @@ A: 是的，我们支持批量数据获取，可以大大提高数据获取效�
 ---
 
 **选择GoodData，让数据获取变得简单高效！**
+​
